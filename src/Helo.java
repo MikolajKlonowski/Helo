@@ -10,14 +10,5 @@ class Helo {
          */
         System.out.println("abc4");
         System.out.println("abc4");
-
-
-
-
-
     }
-
-
-
-
 }
